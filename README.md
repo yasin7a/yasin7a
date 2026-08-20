@@ -1,7 +1,7 @@
 # Yasin Arafath
 
 Full-Stack Developer — Node.js · React · AI Applications  
-3+ years building production systems and scalable web platforms.
+4+ years building production systems and scalable web platforms.
 
 ---
 
@@ -19,6 +19,7 @@ Recently I have been focusing on AI-integrated applications, developer tooling, 
 
 ### Backend Development
 - Node.js
+- Nest.js
 - Fastify
 - Express
 - REST API architecture
